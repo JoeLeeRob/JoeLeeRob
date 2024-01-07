@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning Javascript, Vue, Angular
+- 🌱 I’m currently learning Javascript, Vue, Angular, React, Nextjs, Nuxtjs
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me Joe.Rob.Dev@gmail.com
